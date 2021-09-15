@@ -47,10 +47,20 @@
 
 ## Backend language + framework (C#/.NET)
 
+- This work will be targeted on Sprint 6 and sprint 7 as per schedule.
+
 ## Backend free app host (Heroku or Our Developer's Own Server)
+
+- This work will be targeted on Sprint 9,10 and 11 as per schedule.
 
 ## Data host (Atlas MongoDB and SQL)
 
+- Usage and creation of databases will be started on sprint 5.
+
 ## Front-end page plan (Build with CSHTM Not a Single page)
 
+- Sprint 3, 8 qand 9 will cover the UI part.
+
 ## Front-end responsive design (Bootstrap)
+
+- Sprint 3, 8 qand 9 will cover the UI part and design perspectives.
