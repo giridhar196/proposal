@@ -2,6 +2,8 @@
 
 ## Schedule & sprints are set by the GDP semesters (about every 2-weeks = a sprint)
 
+## GDP-1 
+
 #### Sprint 1  (Start Date: 20 September 2021 - 4th October 2021)
 - In sprint 1 we work with plan and all the basic reqirements gathering. 
 
@@ -39,11 +41,12 @@
  #### Sprint 11  (Start Date: 30th March 2022 - 15th April 2022)
  - Deployment of the application, and prod fixes.
  
+#
 
-
-### Budget 
+## Budget 
 - 2 Developers, Each developer will chare 40$ per hour.
 
+#
 
 ## Backend language + framework (C#/.NET)
 
