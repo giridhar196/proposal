@@ -1,4 +1,8 @@
-# Proposal For the Class Remainder
+ # Proposal For the Class Remainder
+ ## Introduction
+ - Our app mainly focus on students to remainded their class timings and room number as per their schedule and list of the classes need to attend in a day.
+ 
+ 
 
 ## Schedule & sprints are set by the GDP semesters (about every 2-weeks = a sprint)
 
