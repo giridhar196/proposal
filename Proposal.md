@@ -2,6 +2,11 @@
  ## Introduction
  - Our app mainly focus on students to remainded their class timings and room number as per their schedule and list of the classes need to attend in a day.
  
+ ## Overview of the Application
+ - App contains two screens to display the upcoming classes of student.
+ - On first screen recent upcoming class with time and room number is displayed in a rectangular box.
+ - User clicks on box to redirect to second screen.
+ - Second screen displays list of all upcoming classes with time and room number.
  
 
 ## Schedule & sprints are set by the GDP semesters (about every 2-weeks = a sprint)
