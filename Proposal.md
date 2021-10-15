@@ -9,10 +9,9 @@
  - Second screen displays list of all upcoming classes with time and room number.
  
  ## Team members and their roles
-| S No | Members                 | Roles              | Github link                     |
-|------|-------------------------|--------------------|--------------------------------|
-| 1    |  Giridhar Addagalla     | Developer          | https://github.com/giridhar196 |
-| 2    | Vyshnavi Tadipaneni     | Developer          | https://github.com/vyshnavi1996|
+ 
+   - [Giridhar Addagalla](https://github.com/giridhar196)
+   - [Vyshnavi Tadipaneni](https://github.com/vyshnavi1996)
 
 
 
