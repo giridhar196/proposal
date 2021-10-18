@@ -59,7 +59,10 @@
 #
 
 ## Budget 
-- 2 Developers, Each developer will chare 40$ per hour.
+| S. No.| Name               | Role                | Hourly Pay             | Hours/ Week  | Estimated Cost/ Week |
+|------|---------------------|-------------------- |------------------------| ------------ | ---------------------|
+| 1    | Giridhar Addagalla  | Back-end Developer  | $45                    |   9 - 12     |  $405 - $540         |
+| 2    | Vyshnavi Tadipaneni | Front-end Developer | $45                    | 9 - 12       | $405 - $540          |
 
 #
 
