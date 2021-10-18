@@ -84,7 +84,6 @@
 ## User Stories/Tasks
 
 ## Database Tables
-## Database Tables
  ### User
     - id
     - name
