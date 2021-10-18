@@ -103,7 +103,7 @@
     - is_delete
 
 ## Entity-Relationship Diagram
- ![erdiagram](images/erdiagram.png)
+ ![erdiagram](erdiagram.png)
 
 ## User Interface Sketches
 
