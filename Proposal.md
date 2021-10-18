@@ -15,6 +15,23 @@
 
 ## Functional Requirements
 
+### Home Screen:
+1.	API to get the upcoming class with room number and time.
+2.	Button to redirect to list of upcoming classes.
+3.	Add class button to add new class (subject, time and date, room number).
+### Classes List Screen:
+1.	API to display list of all upcoming classes.
+2.	Edit button for each class to edit class details.
+3.	Delete button for each class to delete a class.
+### Login Page:
+1.	Text fields to enter username and password.
+2.	Button for authenticating into the application.
+3.	Forgot password link, to reset the password.
+### Header:
+1.	Your profile link to navigate to user details.
+2.	Logout button to logout of the application.
+
+
 ## Schedule & sprints are set by the GDP semesters (about every 2-weeks = a sprint)
 
 ## GDP-1 
