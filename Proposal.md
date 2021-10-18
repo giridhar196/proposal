@@ -83,6 +83,27 @@
 
 ## User Stories/Tasks
 
+## Database Tables
+## Database Tables
+ ### User
+    - id
+    - name
+    - role
+    - is_delete
+### Class Details
+    - id
+    - user_id
+    - classroom_id
+    - start_time
+    - end_time
+    - is_delete
+### Classroom Details
+    - id
+    - room_number
+    - subject
+    - is_delete
+
+
 ## User Interface Sketches
 
 ## Backend language + framework (C#/.NET)
