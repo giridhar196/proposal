@@ -102,6 +102,8 @@
     - subject
     - is_delete
 
+## Entity-Relationship Diagram
+<img src="images/ER_Diagram.png" alt="ER_Diagram"/>
 
 ## User Interface Sketches
 
