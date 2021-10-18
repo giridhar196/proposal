@@ -7,3 +7,7 @@
 [Link For Request For Proposal](https://github.com/harshakurra123/ClassRemainder)
 
 [Link for the Proposal](https://github.com/giridhar196/proposal/blob/main/Proposal.md)
+
+[Link for the screens and design](https://github.com/giridhar196/classReminder/blob/master/Final%20Approval%20Sketches.pdf)
+
+[link for deployed version](https://classremindergdp.herokuapp.com/)
