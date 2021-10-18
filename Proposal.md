@@ -13,7 +13,7 @@
    - [Giridhar Addagalla](https://github.com/giridhar196)
    - [Vyshnavi Tadipaneni](https://github.com/vyshnavi1996)
 
-
+## Functional Requirements
 
 ## Schedule & sprints are set by the GDP semesters (about every 2-weeks = a sprint)
 
