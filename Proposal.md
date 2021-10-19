@@ -82,6 +82,34 @@
 | 2    | Vyshnavi Tadipaneni | Front-end Developer | $45                    | 9 - 12       | $405 - $540          |
 
 ## User Stories/Tasks
+ - userstory1: User can register module.
+ #### Acceptance criteria:
+ The RFP is yet to be reviewed by the client.Once it is approved we will work on this task.
+- user Story2 : User can login in login module.
+#### Acceptance criteria:
+The RFP is yet to be reviewed by the client.Once it is approved we will work on this task.
+- user Story3 : User can create a adding schedule to class remainder app.
+#### Acceptance criteria:
+The RFP is yet to be reviewed by the client.Once it is approved we will work on this task.
+- user Story4 : User can edit a schedule.
+#### Acceptance criteria:
+The RFP is yet to be reviewed by the client.Once it is approved we will work on this task.
+- user Story5 : User can display a single class with timings and room number.
+#### Acceptance criteria:
+The RFP is yet to be reviewed by the client.Once it is approved we will work on this task.
+- user Story6 : User can manage his team in user profile module.
+#### Acceptance criteria:
+The RFP is yet to be reviewed by the client.Once it is approved we will work on this task.
+- user Story7 : The User should be able to provide list of class for the student and and provide room number and timings of the class.
+#### Acceptance criteria:
+The RFP is yet to be reviewed by the client.Once it is approved we will work on this task.
+- user Story8 : User can create  a home page with background image and color.
+#### Acceptance criteria:
+The RFP is yet to be reviewed by the client.Once it is approved we will work on this task.
+- user Story9 : User can create navigation from one page to other using connections.
+#### Acceptance criteria:
+The RFP is yet to be reviewed by the client.Once it is approved we will work on this task.
+
 
 ## Database Tables
  ### User
