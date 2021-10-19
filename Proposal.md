@@ -105,7 +105,6 @@
 ## Entity-Relationship Diagram
  ![erdiagram](erdiagram.png)
 
-## User Interface Sketches
 
 ## Backend language + framework (C#/.NET)
 
