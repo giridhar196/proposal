@@ -136,7 +136,7 @@ The RFP is yet to be reviewed by the client.Once it is approved we will work on 
 The above diagram speek how our data integrate and basic required fields in order to secure the account.
 
 ## Sample Data
-- [Sample_data](
+  - [Sample_data](sample_data.xlsx)
 
 ## Backend language + framework (C#/.NET)
 
